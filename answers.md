@@ -155,3 +155,6 @@ Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 
+Answer 10: Yes
+Answer 11: An error occurs because it's necessary to pull before pushing again.
+Answer 12: No, I'm continuously getting an error about unmerged files that niether me nor abby knows how to fix. quite unfortunate
